@@ -3,7 +3,7 @@ venv/
 env/
 ENV/
 
-# Python cache
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
@@ -26,8 +26,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 
-# Large model files (optional if very large)
-*.dat
+# Model / large files (optional)
 *.pkl
 *.h5
 *.model
+*.dat
